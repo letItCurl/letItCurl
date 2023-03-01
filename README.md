@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @letItCurl
-- I will, one day, do somthing super cool with this README.md
-- CEO Of [emailsummarizer.ai](https://emailsummarizer.ai)
+# 👋 Hi, I’m @letItCurl
+> CEO of [emailsummarizer.ai](https://emailsummarizer.ai)
 
-- Other projects:
+- Other fun projects:
 - https://sudoku-binchmarking.firebaseapp.com/
 - https://gameoflife-ts.web.app/
 
