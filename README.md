@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @letItCurl
-> CEO of [emailsummarizer.ai](https://emailsummarizer.ai)
+> CEO of [emailsummarizer.ai](https://emailsummarizer.ai) -> ETA April 🚀
 
 ### Description:
 A young indie hacker enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
