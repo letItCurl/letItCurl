@@ -2,7 +2,7 @@
 > CEO of [emailsummarizer.ai](https://emailsummarizer.ai) -> ETA April 🚀
 
 ### Description:
-A young indie hacker enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
+A young indie hacker that enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### Other fun projects:
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
