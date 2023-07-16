@@ -12,7 +12,9 @@ A young indie hacker that enjoys enduro challenges and has committed to growing 
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
 - [The game of life in Vue](https://gameoflife-ts.web.app/)
 
-![roland_moto_b_square.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79a4f952-2595-4ddd-85dc-1fba68cf72a2/roland_moto_b_square.jpeg)
+### Want more?
+If you're curious about my journey, join my newsletter where we discuss bikes and coding:
+[https://notocat.com/sub/frm_c8DEwcGxx8ikWGCjLOx5G](https://notocat.com/sub/frm_c8DEwcGxx8ikWGCjLOx5G)
 
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
