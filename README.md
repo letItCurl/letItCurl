@@ -16,6 +16,7 @@ A young indie hacker that enjoys enduro challenges and has committed to growing 
 
 ### Want more?
 If you're curious about my journey, join my newsletter where we discuss bikes and coding:
+
 [👉 💎 JOIN 💎 👈](https://notocat.com/sub/frm_c8DEwcGxx8ikWGCjLOx5G)
 
 <!---
