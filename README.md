@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @letItCurl
-> Exploring other fun ideas to make 🤹
+> Exploring fun ideas to ship 🤹
 
 ### Description:
 A young indie hacker that enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
