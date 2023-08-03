@@ -7,6 +7,8 @@ A young indie hacker that enjoys enduro challenges and has committed to growing 
 ### Indie-hacking projects:
 - [emailsummarizer.ai](https://emailsummarizer.ai)
 
+### Fostering Ruby On Rails in thailand 💎  
+- [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
 
 ### Other fun projects:
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
