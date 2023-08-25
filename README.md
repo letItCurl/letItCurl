@@ -5,6 +5,7 @@
 A young indie hacker that enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### Indie-hacking projects:
+- [gitjourney.com](https://gitjourney.com/)
 - [emailsummarizer.ai](https://emailsummarizer.ai)
 
 ### Fostering Ruby On Rails in thailand 💎  
