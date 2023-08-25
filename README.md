@@ -2,7 +2,7 @@
 > Exploring fun ideas to ship 🤹
 
 ### Description 🤭
-A young indie hacker that enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
+A young indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### Indie-hacking projects 🃏
 - [gitjourney.com](https://gitjourney.com/)
