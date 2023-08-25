@@ -11,7 +11,7 @@ A young indie hacker that enjoys enduro challenges and has committed to growing 
 ### Fostering Ruby On Rails in thailand 💎  
 - [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
 
-### Other fun projects:
+### Projects that got me a job as a junior dev ❤️:
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
 - [The game of life in Vue](https://gameoflife-ts.web.app/)
 
