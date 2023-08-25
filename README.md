@@ -4,14 +4,14 @@
 ### Description:
 A young indie hacker that enjoys enduro challenges and has committed to growing his hair as long as Sangoku's.
 
-### Indie-hacking projects:
+### Indie-hacking projects 🃏
 - [gitjourney.com](https://gitjourney.com/)
 - [emailsummarizer.ai](https://emailsummarizer.ai)
 
 ### Fostering Ruby On Rails in thailand 💎  
 - [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
 
-### Projects that got me a job as a junior dev ❤️:
+### My first projects that got me a job as a junior dev ❤️
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
 - [The game of life in Vue](https://gameoflife-ts.web.app/)
 
