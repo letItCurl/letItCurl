@@ -14,7 +14,8 @@ A young indie hacker that enjoys dirtbikes enduro challenges and has committed t
 - [The game of life in Vue](https://gameoflife-ts.web.app/)
 
 ### Want more?
-If you're curious about my journey, join my newsletter where we discuss bikes and coding:
+If you're curious about my journey, you should click here:
+[@the_offroad_tiger](https://linktr.ee/the_offroad_tiger)
 
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
