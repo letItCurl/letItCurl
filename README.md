@@ -1,15 +1,13 @@
 # 👋 Hi, I’m @letItCurl
-> Exploring fun ideas to ship 🤹
+> [Focusing content creation 🤹](https://linktr.ee/the_offroad_tiger)
 
 ### Description 🤭
 A young indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### Indie-hacking projects 🃏
-- [gitjourney.com](https://gitjourney.com/)
-- [emailsummarizer.ai](https://emailsummarizer.ai)
-
-### Fostering Ruby On Rails in thailand 💎  
-- [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
+- RIP: [gitjourney.com](https://gitjourney.com/)
+- RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
+- RIP: [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
 
 ### My first projects that got me a job as a junior dev ❤️
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
@@ -17,8 +15,6 @@ A young indie hacker that enjoys dirtbikes enduro challenges and has committed t
 
 ### Want more?
 If you're curious about my journey, join my newsletter where we discuss bikes and coding:
-
-[👉 💎 JOIN 💎 👈](https://notocat.com/sub/frm_c8DEwcGxx8ikWGCjLOx5G)
 
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
