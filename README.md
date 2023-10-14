@@ -15,6 +15,7 @@ A young indie hacker that enjoys dirtbikes enduro challenges and has committed t
 
 ### Want more?
 If you're curious about my journey, you should click here:
+
 [@the_offroad_tiger](https://linktr.ee/the_offroad_tiger)
 
 <!---
