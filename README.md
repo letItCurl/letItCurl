@@ -1,12 +1,10 @@
 # 👋 Hi, I’m @letItCurl
-> [Focusing content creation 🤹](https://linktr.ee/the_offroad_tiger)
-
-👉 [mysticmojito.com](https://mysticmojito.com/)
 
 ### Description 🤭
 A young indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### Indie-hacking projects 🃏
+- RIP: [mysticmojito.com](https://mysticmojito.com/)
 - RIP: [gitjourney.com](https://gitjourney.com/)
 - RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
 - RIP: [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
