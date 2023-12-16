@@ -9,6 +9,7 @@ A young indie hacker that enjoys dirtbikes enduro challenges and has committed t
 - RIP: [kindlenoteswizard.com](https://kindlenoteswizard.com)
 - RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
 - RIP: [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
+- RIP: [kinkyshibary.com](https://kinkyshibary.com)
 - RIP: [mekongdevelopers.com](https://mekongdevelopers.com)
 
 ### My first projects that got me a job as a junior dev ❤️
