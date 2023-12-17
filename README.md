@@ -1,8 +1,8 @@
+# 👋 Hi, I’m @letItCurl
+
 <p align="center">
   <img src="cat.gif">
 </p>
-
-# 👋 Hi, I’m @letItCurl
 
 ### Description 🤭
 A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
