@@ -3,6 +3,9 @@
 ### Description 🤭
 A young indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
+### My GeoCite
+[geocity.mysticmojito.com](https://geocity.mysticmojito.com/)
+
 ### Indie-hacking projects 🃏
 - RIP: [mysticmojito.com](https://mysticmojito.com/)
 - RIP: [gitjourney.com](https://gitjourney.com/)
