@@ -1,7 +1,9 @@
+![Cat](./cat.gif)
+
 # 👋 Hi, I’m @letItCurl
 
 ### Description 🤭
-A young indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
+A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
 ### My GeoCite
 [geocity.mysticmojito.com](https://geocity.mysticmojito.com/)
@@ -23,8 +25,6 @@ A young indie hacker that enjoys dirtbikes enduro challenges and has committed t
 If you're curious about my journey, you should click here:
 
 [@the_offroad_tiger](https://linktr.ee/the_offroad_tiger)
-
-![Cat](./cat.gif)
 
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
