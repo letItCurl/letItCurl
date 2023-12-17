@@ -24,6 +24,8 @@ If you're curious about my journey, you should click here:
 
 [@the_offroad_tiger](https://linktr.ee/the_offroad_tiger)
 
+![Cat](./cat.gif)
+
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
