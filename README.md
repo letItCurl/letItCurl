@@ -1,4 +1,6 @@
-![Cat](./cat.gif)
+<p align="center">
+  <img src="cat.gif">
+</p>
 
 # 👋 Hi, I’m @letItCurl
 
