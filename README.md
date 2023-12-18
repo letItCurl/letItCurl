@@ -16,7 +16,7 @@ A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges a
 - RIP: [kindlenoteswizard.com](https://kindlenoteswizard.com)
 - RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
 - RIP: [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
-- RIP: [kinkyshibary.com](https://kinkyshibary.com)
+- RIP: TOP SECRET PROJECT
 - RIP: [mekongdevelopers.com](https://mekongdevelopers.com)
 
 ### My first projects that got me a job as a junior dev ❤️
