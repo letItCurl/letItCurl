@@ -14,7 +14,7 @@ A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges a
 [geocity.mysticmojito.com](https://geocity.mysticmojito.com/)
 
 ### Indie-hacking projects 🃏
-- RIP: [mysticmojito.com](https://mysticmojito.com/)
+- Still Alive: [mysticmojito.com](https://mysticmojito.com/)
 - RIP: [gitjourney.com](https://gitjourney.com/)
 - RIP: [kindlenoteswizard.com](https://kindlenoteswizard.com)
 - RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
