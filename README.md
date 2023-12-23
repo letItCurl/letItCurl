@@ -7,6 +7,9 @@
 ### Description 🤭
 A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
 
+### Latest launch
+[Minimal Marketing](https://themes.gohugo.io/themes/minimal_marketing/)
+
 ### My GeoCite
 [geocity.mysticmojito.com](https://geocity.mysticmojito.com/)
 
