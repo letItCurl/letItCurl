@@ -1,4 +1,5 @@
-# 👋 Hi, I’m @letItCurl. That's me 👇 Just a wild cat giving attention to all his ideas... 
+# 👋 Hi, I’m @letItCurl. 
+# That's me 👇 Just a wild cat giving attention to all his ideas... 
 
 <p align="center">
   <img src="cat.gif">
