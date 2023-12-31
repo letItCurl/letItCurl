@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @letItCurl. 
+# 👋 Hi, I’m @letItCurl
 # That's me 👇 Just a wild cat giving attention to all his ideas... 
 
 <p align="center">
