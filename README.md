@@ -27,11 +27,6 @@ A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges a
 - [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
 - [The game of life in Vue](https://gameoflife-ts.web.app/)
 
-### Want more?
-If you're curious about my journey, you should click here:
-
-[@the_offroad_tiger](https://linktr.ee/the_offroad_tiger)
-
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
