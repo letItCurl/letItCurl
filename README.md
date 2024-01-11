@@ -1,31 +1,35 @@
-# 👋 Hi, I’m @letItCurl
-# That's me 👇 Just a wild cat giving attention to all his ideas... 
+# 👋 @letItCurl: DevRel and RoR wizzard 🧙
+
+<h3>View <a href="https://www.linkedin.com/in/roland-lopez-developer/" target="_blank">my Linkedin 🤙🏻</a>&nbsp;&nbsp;</h3>
+
+<details>
+<summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand!)</i></summary>
 
 <p align="center">
   <img src="cat.gif">
 </p>
 
-### Description 🤭
-A young **Ruby On Rails** Indie hacker that enjoys dirtbikes enduro challenges and has committed to growing his hair as long as Sangoku's.
+<br />
 
-### Latest launch
-[Minimal Marketing](https://themes.gohugo.io/themes/minimal_marketing/)
+<h4>Fun side projects 💎</h4>
+<ul>
+  <li><a href="https://www.producthunt.com/products/minimal-marketing#minimal-marketing" target="_blank">Minimal Marketing</li>
+  <li><a href="https://www.producthunt.com/products/mystic-mojito#mystic-mojito" target="_blank">Mystic Mojito</li>
+  <li><a href="https://www.producthunt.com/products/git-journey#git-journey" target="_blank">Git Journey</li>
+  <li><a href="https://www.producthunt.com/posts/email-summarize" target="_blank">Email Summarizer</li>
+  <li><a href="https://kindlenoteswizard.com" target="_blank">kindlenoteswizard</li>
+  <li><a href="https://rubyonrailsthailand.com" target="_blank">rubyonrailsthailand</li>
+  <li><a href="https://mekongdevelopers.com" target="_blank">mekongdevelopers</li>
+</ul>
 
-### My GeoCite
-[geocity.mysticmojito.com](https://geocity.mysticmojito.com/)
-
-### Indie-hacking projects 🃏
-- Still Alive: [mysticmojito.com](https://mysticmojito.com/)
-- RIP: [gitjourney.com](https://gitjourney.com/)
-- RIP: [kindlenoteswizard.com](https://kindlenoteswizard.com)
-- RIP: [emailsummarizer.ai](https://emailsummarizer.ai)
-- RIP: [rubyonrailsthailand.com](https://rubyonrailsthailand.com)
-- RIP: TOP SECRET PROJECT
-- RIP: [mekongdevelopers.com](https://mekongdevelopers.com)
-
-### My first projects that got me a job as a junior dev ❤️
-- [Sudoku solver in react](https://sudoku-binchmarking.firebaseapp.com/)
-- [The game of life in Vue](https://gameoflife-ts.web.app/)
+<h4>Fun games 👇</h4>
+<ul>
+  <li><a href="https://geocity.mysticmojito.com/" target="_blank">My super website</li>
+  <li><a href="https://sudoku-binchmarking.firebaseapp.com/" target="_blank">Sudoku solver in React</li>
+  <li><a href="https://gameoflife-ts.web.app/" target="_blank">The game of life in Vue JS</li>
+</ul>
+<b>As you can see, I like cats....</b>
+</details>
 
 <!---
 letItCurl/letItCurl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
