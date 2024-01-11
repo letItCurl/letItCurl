@@ -1,6 +1,7 @@
 # 👋 @letItCurl: DevRel and RoR wizzard 🧙
 
 <h3>View <a href="https://www.linkedin.com/in/roland-lopez-developer/" target="_blank">my Linkedin 🤙🏻</a>&nbsp;&nbsp;</h3>
+<h3>Working on <a href="https://nomadjoker.com" target="_blank">Nomad Joker 🃏</a>&nbsp;&nbsp;</h3>
 
 <details>
 <summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand!)</i></summary>
