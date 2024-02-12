@@ -1,4 +1,4 @@
-# 👋 @letItCurl: DevRel and RoR wizzard 🧙
+# DevRel and RoR wizzard 🧙
 
 <h3>View <a href="https://www.youtube.com/channel/UC7KQj2WkGXtlxJ_J0l56Y2Q" target="_blank">Youtube channel: Code and chase dreams 🦅</a>&nbsp;&nbsp;</h3>
 
