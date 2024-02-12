@@ -2,9 +2,7 @@
 
 <h3>View <a href="https://www.youtube.com/channel/UC7KQj2WkGXtlxJ_J0l56Y2Q" target="_blank">Youtube channel: Code and chase dreams 🦅</a>&nbsp;&nbsp;</h3>
 
-<h3>View <a href="https://www.linkedin.com/in/roland-lopez-developer/" target="_blank">my Linkedin 🤙🏻</a>&nbsp;&nbsp;</h3>
-
-<h3>Working on <a href="https://nomadjoker.com" target="_blank">Nomad Joker 🃏</a>&nbsp;&nbsp;</h3>
+<h3>View <a href="https://linktr.ee/roland_lopez" target="_blank">All my socials</a>&nbsp;&nbsp;</h3>
 
 <details>
 <summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand!)</i></summary>
@@ -12,6 +10,7 @@
   
 <ul>
   <li><a href="https://www.producthunt.com/products/minimal-marketing#minimal-marketing" target="_blank">Minimal Marketing</li>
+  <li><a href="https://www.producthunt.com/posts/freelance-face" target="_blank">(shutdown) Freelance Face</li>
   <li><a href="https://www.producthunt.com/products/mystic-mojito#mystic-mojito" target="_blank">(shutdown) Mystic Mojito</li>
   <li><a href="https://www.producthunt.com/products/git-journey#git-journey" target="_blank">(shutdown) Git Journey</li>
   <li><a href="https://www.producthunt.com/posts/email-summarize" target="_blank">(shutdown) Email Summarizer</li>
