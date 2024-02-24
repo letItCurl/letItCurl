@@ -5,7 +5,7 @@
 <h3>View <a href="https://linktr.ee/roland_lopez" target="_blank">All my socials</a>&nbsp;&nbsp;</h3>
 
 <details>
-<summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand!)</i></summary>
+<summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand)</i></summary>
 <h4>Product Hunt side projects 💎</h4>
   
 <ul>
