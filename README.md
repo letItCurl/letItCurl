@@ -19,7 +19,7 @@
   <li><a href="https://mekongdevelopers.com" target="_blank">(failed) mekongdevelopers</li>
 </ul>
 
-<h4>Fun games 👇</h4>
+<h4>Fun Stuff 👇</h4>
 <ul>
   <li><a href="https://geocity.mysticmojito.com/" target="_blank">My super website (just for fun)</li>
   <li><a href="https://sudoku-binchmarking.firebaseapp.com/" target="_blank">Sudoku solver in React</li>
