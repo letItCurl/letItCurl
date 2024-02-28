@@ -2,7 +2,7 @@
 
 <h3>View <a href="https://www.youtube.com/channel/UC7KQj2WkGXtlxJ_J0l56Y2Q" target="_blank">Youtube channel: Code and chase dreams 🦅</a>&nbsp;&nbsp;</h3>
 
-<h3>View <a href="https://linktr.ee/roland_lopez" target="_blank">All my socials</a>&nbsp;&nbsp;</h3>
+<h3><a href="https://linktr.ee/roland_lopez" target="_blank">All my socials</a>&nbsp;&nbsp;</h3>
 
 <details>
 <summary><b>Learn more about me here 😁</b>&emsp;<i>(click to expand)</i></summary>
