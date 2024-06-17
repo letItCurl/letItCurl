@@ -1,4 +1,3 @@
-# DevRel and RoR wizzard 🧙
+# DevRel and RoR Developer 🧙
 
-# [RolandSoftwares.com](https://rolandsoftwares.com/)
-### Helping Businesses with Tailored Workshops and Consulting Calls.
+### Writing here on my free time [RolandSoftwares.com](https://rolandsoftwares.com/)
