@@ -4,8 +4,6 @@
 
 [Something I'm proud of in ruby;)](https://gist.github.com/letItCurl/61960146a2ccc47595fa101cd318da7c)
 
-[A simple side project to scrap google searches](https://okya.rolandsoftwares.com/)
-
 <details>
   <summary>Here is my resume</summary>
   
