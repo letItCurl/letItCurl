@@ -1,4 +1,4 @@
-# DevRel and RoR Developer 🧙
+# Full-stack developer & DevOps
 
 ### Writing here on my free time [RolandSoftwares.com](https://rolandsoftwares.com/)
 
